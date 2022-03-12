@@ -7,4 +7,4 @@ Review notes after completing the project:
 - Used GIMP to crop all images to the same dimensions 600x600. This size was chosen because I wanted square images and the smallest dimension in my collection was 600 px, so I reduced all image dimensions to match the smallest one. It was very easy to manage all the image files at once in GIMP and editing took a few minutes only.
 - Using short filenames and directory names was helpful.
 - I only chose recipes that I love, which helped motivate me to be thorough with this project.
-    
+
