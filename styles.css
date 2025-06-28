@@ -16,6 +16,9 @@ body {
     width:30%;    
     background-color:rgba(162, 224, 243, 0.568);
     padding:10px;
+}
+
+.subtitle, .title, .instructions {
     user-select: none;
 }
 
@@ -24,6 +27,10 @@ img.homepage {
     margin-right:auto;
     border-radius:20px; 
     width:50%;
+}
+
+a.github {
+    color:white;
 }
 
 a.github:hover{
