@@ -16,6 +16,7 @@ body {
     width:30%;    
     background-color:rgba(162, 224, 243, 0.568);
     padding:10px;
+    user-select: none;
 }
 
 img.homepage {
